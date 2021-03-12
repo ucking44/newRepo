@@ -42,7 +42,7 @@
                             </div>
                         </div>
 
-                        {{-- <div class="form-row">
+                        <div class="form-row">
                             <div class="form-group col-lg-6">
                                 <label class="required font-weight-bold text-dark text-2">Enter Date of Birth</label>
                                 <input type="date" value=""  class="form-control" name="dob" id="dob" required="">
@@ -52,9 +52,11 @@
                                 <label class="required font-weight-bold text-dark text-2">Enter Phone Number</label>
                                 <input type="text" value=""  class="form-control" name="phone_number" id="phone_number" required="">
                             </div>
-                        </div> --}}
+                        </div>
 
                         <div><h3>Hello</h3></div>
+                        <div><h3>welcome</h3></div>
+                        <div><h3>Hello!</h3></div>
 
 
                         <div class="form-row">
