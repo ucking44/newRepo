@@ -86,10 +86,6 @@
         </div>
     </div>
 
-
-
-
-
     <style type="text/css">
         .te {
             font-size: 2em!important;
